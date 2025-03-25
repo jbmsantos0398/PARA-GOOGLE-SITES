@@ -1,0 +1,38 @@
+﻿<!------------------------------------------------------------------------>
+<h1><u>Fortaleza, 14:43 28/11/2023</u></h1><hr class="new4">
+<h2>BEM VINDO</h2>
+<!------------------------------------------------------------------------>
+<p><li>Contém cenas de sexo, <FONT COLOR="red">proibido para menores de 18 anos</FONT> de acordo com a <a href="
+https://www.planalto.gov.br/ccivil_03/leis/l8069.htm#art241E
+" target="_blank">
+lei Nº 8.069, DE 13 DE JULHO DE 1990. 
+.</a></li></p><HR/>
+<!---------------------------------------------------------------------------------->
+<!--------------------------ANCORA------------------------------>
+<!-------------------------------------
+O código de destino, isto é, o ponto de chegada ao ser clicado é:
+<p><li><a name="ancora🔴">ancora🔴</a></li></p>
+E o código do comando "ir para" é:
+<p><li><a href="#ancora🔴">ir para ancora🔴</a></li></p>
+Você pode criar vários pontos, como:
+<p><li><a name="ancora2🔴"> e <a href="#ancora2🔴">ir para ancora2🔴</a></li></p>
+Para fazer o usuário "Ir para o topo" não é necessário uma âncora como acima, tem um código especial para isto: 
+<p><li><a href="#top">Ir para o topo</a></li></p>
+Para ir à outra página:
+<p><li><a href="nomedapagina🔴/1 - Copia.html#ancora🔴">ir para ancora🔴</a></li></p>
+Utilizando uma imagem como âncora: 
+<p><li><a href="#ancora🔴"><img src="imagem.jpg🔴"></a></li></p>
+
+<p><h3><a href="#top">TOPO</a></h3></p>
+----------------------------------------->
+<!-------------------------------
+<strong>NEGRITO</strong>.
+<B>NEGRITO</B>
+
+
+" target="_blank">
+----------------------------->
+<!--------------------------------------------------->
+
+
+
